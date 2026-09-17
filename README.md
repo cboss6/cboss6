@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm an AI framework engineer at **Tencent Hunyuan**, specializing in scalable
+I'm a senior AI framework engineer at **Tencent Hunyuan**, specializing in scalable
 training and inference systems for large language and multimodal models. My work
 spans post-training, distributed computing, and performance optimization.
 

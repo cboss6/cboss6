@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Shengzhi Chen 👋</h1>
 
 <p align="center">
-  <strong>AI Frameworks · Post-Training · Multimodal Models · High-Performance Inference</strong>
+  <strong>AI Frameworks · Post-Training · Multimodal Systems · High-Performance Computing</strong>
 </p>
 
 ## About me
 
-I'm an AI framework engineer at **Tencent Hunyuan**, where I build scalable
-training and inference systems for large language and multimodal models. My
-interests include post-training, distributed computing, and efficient inference.
+I'm an AI framework engineer at **Tencent Hunyuan**, specializing in scalable
+training and inference systems for large language and multimodal models. My work
+spans post-training, distributed computing, and performance optimization.
 
 ## Technical toolkit
 
-**AI frameworks**
+**AI frameworks & systems**
 
 ![verl](https://img.shields.io/badge/verl-00A67E?style=flat)
 ![vLLM](https://img.shields.io/badge/vLLM-4B32C3?style=flat)
@@ -23,7 +23,7 @@ interests include post-training, distributed computing, and efficient inference.
 ![Megatron-LM](https://img.shields.io/badge/Megatron--LM-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white)
 
-**Languages & systems**
+**Languages & computing**
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)

@@ -23,7 +23,7 @@ spans post-training, distributed computing, and performance optimization.
 ![Megatron-LM](https://img.shields.io/badge/Megatron--LM-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white)
 
-**Languages & computing**
+**Languages & platforms**
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
